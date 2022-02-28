@@ -1,0 +1,6 @@
+{
+	"server" : "jelizarragaserver.database.windows.net",
+	"database" : "EPICOR",
+	"user" : "jelizarraga",
+	"password" : "Jeli2016"
+}

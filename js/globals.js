@@ -1,0 +1,1 @@
+var urlController = "http://10.6.4.247:8080/IT/controllers/";
